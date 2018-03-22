@@ -4,19 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 22, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Alex Hernandez)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we created a photo gallery with the option to reveal more photos if the user insists.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(to my repository)
+github.com/ath15c/lesson6_javascript3 
+
+(to the photo gallery)
+https://ath15c.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (We learned how to create new document nodes.)
+2. (We enhanced our understanding of nested if/else functions.)
+3. (We learned how to add src values to image elements.)
